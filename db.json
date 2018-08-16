@@ -1,23 +1,21 @@
-[
+
   {
     "id": 1,
     "name": "IPHONE6",
     "username": "Bret",
     "email": "Sincere@april.biz",
-   },
+   }
   {
     "id": 2,
     "name": "IPHONE7",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     
-  },
+  }
   {
     "id": 3,
     "name": "IPHONE8",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
-    ,
+    
     }
-  
-]
