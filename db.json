@@ -1,6 +1,18 @@
 {
   "Devices": [
+    { "sku": "9012331", "Price": "$499"},
+    { "sku": "9390056", "Price": "$799"},
+    { "sku": "9089903", "Price": "$899"}
+] }
+
+
+
+/*
+{
+  "Devices": [
     { "id": 1, "title": "Iphone 6", "color": "Black", "memory": "64 GB", "srp": "$499"},
     { "id": 2, "title": "Iphone 7", "color": "Gray", "memory": "32 GB", "srp": "$799"},
     { "id": 3, "title": "Iphone 8", "color": "Red", "memory": "256 GB", "srp": "$899"}
 ] }
+
+*/
